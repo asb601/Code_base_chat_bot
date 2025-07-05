@@ -1,0 +1,52 @@
+# Core Framework
+streamlit
+fastapi
+uvicorn
+
+# Code Processing
+pygit2  # Corrected libgit2 binding
+tree-sitter
+pygments
+semgrep
+
+# AI/ML Components
+sentence-transformers
+qdrant-client
+neo4j
+networkx
+torch
+transformers
+openai
+tiktoken
+
+# RAG & Agents
+langchain
+langgraph
+autogen
+llama-index
+
+# Data Handling
+polars
+orjson
+lancedb
+redis
+
+# Monitoring & Security
+prometheus-client
+sentry-sdk
+opentelemetry-sdk
+python-dotenv
+bcrypt
+cryptography
+
+# Future Web Integration
+fastapi-socketio
+python-socketio
+aiofiles
+
+# Development Tools
+black
+mypy
+pytest
+jupyter
+streamlit-extras
