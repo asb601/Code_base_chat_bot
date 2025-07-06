@@ -4,7 +4,7 @@ fastapi
 uvicorn
 
 # Code Processing
-pygit2  # Corrected libgit2 binding
+pygit2
 tree-sitter
 pygments
 semgrep
@@ -50,3 +50,11 @@ mypy
 pytest
 jupyter
 streamlit-extras
+
+# Language Detection + Parsing
+pygments           # Universal, fast
+tree_sitter
+tree_sitter_languages # Pre-built grammars
+
+
+dotenv
