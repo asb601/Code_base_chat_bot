@@ -1,1 +1,13 @@
-.venv/
+# Ignore cache and data folders
+__pycache__/
+data/
+output/
+repo/
+
+# Ignore environment and logs
+.env
+*.log
+
+# Ignore token and other text files
+total_tokens.txt
+*.txt
